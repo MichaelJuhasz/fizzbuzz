@@ -1,0 +1,10 @@
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+#wow {
+	font: bold 2em Serif;
+	color: gold;
+/*	text-shadow: 1px 1px 1px #000;*/
+}
